@@ -1,65 +1,39 @@
-# 👋 Hey there, I'm Boopesh
+# Boopesh | DevOps Engineer
 
-**DevOps | Cloud | Automation | Kubernetes | Infrastructure as Code**
+**Infrastructure as Code | Cloud Architecture | CI/CD Automation**
 
-I design, automate, and secure cloud-native environments — building bridges between code and infrastructure.
-
----
-
-### About Me
-
-- Currently working on: **Python | AWS | Terraform Automation**
-- Learning: **AWS DevOps, Docker and Cloud Security**
-- Passionate about multi-cloud design, observability, and GitOps.
-- Ask me about: **AWS, Terraform, Kubernetes, CI/CD, Docker**
-- Fun Fact: I love automating things that annoy me more than once.
+Professional DevOps Engineer focused on architecting resilient, cloud-native environments and automating complex deployment lifecycles. I specialize in building scalable infrastructure that bridges the gap between development and production.
 
 ---
 
-### Tech Toolbox
+### Technical Expertise
 
-**Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Cloud & Infrastructure** `AWS` • `Terraform` • `Infrastructure as Code (IaC)` • `Linux Administration` • `Cloud Security`
 
-**Containers & CI/CD**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4C1E?style=for-the-badge&logo=argo&logoColor=white)
+**Orchestration & Automation** `Kubernetes` • `Docker` • `Helm` • `ArgoCD` • `GitHub Actions` • `CI/CD Pipelines`
+
+**Programming & Tooling** `Python (Boto3)` • `Bash Scripting` • `GitOps` • `Observability`
 
 ---
 
-### Featured Projects
+### Key Projects
 
-| Project | Description | Tech Stack |
-|:--|:--|:--|
-| 🛰️ **BOTO3 toolkit** | Create an ephemeral instance.  | Python, AWS ,Boto3  |
-| ⚙️ **Cloud Mapper** | Generates a map of resources in AWS on different regions. | Python, Boto3 |
-| 🌊 **IoT Water Quality Monitor** | Monitors TDS, pH, and chlorine using AWS IoT + Timestream. | Python, AWS IoT, MQTT |
-
----
-
-### 🎓 Certifications
-
-- **AWS Certified CloudOps – Associate**
-- **HashiCorp Certified - Terraform Associate**
+| Project | Description | Technical Stack |
+| :--- | :--- | :--- |
+| **AWS Boto3 Toolkit** | Developed a Python-based utility for provisioning ephemeral AWS instances with automated cleanup. | Python, Boto3, AWS EC2 |
+| **Cloud Mapper** | A multi-region resource discovery tool that maps global AWS infrastructure for audit and visibility. | Python, Boto3, IAM |
+| **IoT Quality Monitor** | Real-time monitoring system utilizing MQTT protocols and time-series databases for environmental data. | AWS IoT, Timestream, Python |
 
 ---
 
-### GitHub Stats
+### Certifications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOOPESH-foxy&layout=compact&theme=radical)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BOOPESH-foxy&show_icons=true&theme=radical)
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/boopesh-foxy)
-
-[![Mail](https://img.shields.io/badge/Email-FF5722?logo=gmail&logoColor=white)](mailto:contact.boopesh@gmail.com)
+* **AWS Certified CloudOps** – Associate
+* **HashiCorp Certified** – Terraform Associate
 
 ---
+
+### Professional Networking
+
+* **LinkedIn:** [linkedin.com/in/boopesh-foxy](https://linkedin.com/in/boopesh-foxy)
+* **Email:** [contact.boopesh@gmail.com](mailto:contact.boopesh@gmail.com)
