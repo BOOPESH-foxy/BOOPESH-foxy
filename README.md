@@ -10,9 +10,9 @@ Professional DevOps Engineer focused on architecting resilient, cloud-native env
 
 **Cloud & Infrastructure** `AWS` • `Terraform` • `Infrastructure as Code (IaC)` • `Linux Administration` • `Cloud Security`
 
-**Orchestration & Automation** `Kubernetes` • `Docker` • `Helm` • `ArgoCD` • `GitHub Actions` • `CI/CD Pipelines`
+**Orchestration & Automation** `Docker` • `ArgoCD` • `GitHub Actions` • `CI/CD Pipelines`
 
-**Programming & Tooling** `Python (Boto3)` • `Bash Scripting` • `GitOps` • `Observability`
+**Programming & Tooling** `Python ` • `Bash Scripting` 
 
 ---
 
