@@ -37,6 +37,6 @@ Professional engineer specializing in **Infrastructure as Code (IaC)**, **Cloud 
 
 ### Contact Information
 
-* **LinkedIn:** [linkedin.com/in/boopesh-foxy](https://linkedin.com/in/boopesh-foxy)
+* **LinkedIn:** [linkedin.com/in/boopesh-foxy](www.linkedin.com/in/boopesh-eswaran)
 * **Email:** [contact.boopesh@gmail.com](mailto:contact.boopesh@gmail.com)
 * **Location:** Remote / India
