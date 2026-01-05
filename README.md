@@ -1,39 +1,48 @@
-# Boopesh | DevOps Engineer
+# Boopesh | CloudOps & DevOps Engineer
 
-**Infrastructure as Code | Cloud Architecture | CI/CD Automation**
-
-Professional DevOps Engineer focused on architecting resilient, cloud-native environments and automating complex deployment lifecycles. I specialize in building scalable infrastructure that bridges the gap between development and production.
+Professional engineer specializing in **Infrastructure as Code (IaC)**, **Cloud Architecture**, and **Automated Workflows**. I focus on building highly available, secure, and cost-optimized cloud environments.
 
 ---
 
-### Technical Expertise
+### Core Competencies
 
-**Cloud & Infrastructure** `AWS` • `Terraform` • `Infrastructure as Code (IaC)` • `Linux Administration` • `Cloud Security`
-
-**Orchestration & Automation** `Docker` • `ArgoCD` • `GitHub Actions` • `CI/CD Pipelines`
-
-**Programming & Tooling** `Python ` • `Bash Scripting` 
-
----
-
-### Key Projects
-
-| Project | Description | Technical Stack |
-| :--- | :--- | :--- |
-| **AWS Boto3 Toolkit** | Developed a Python-based utility for provisioning ephemeral AWS instances with automated cleanup. | Python, Boto3, AWS EC2 |
-| **Cloud Mapper** | A multi-region resource discovery tool that maps global AWS infrastructure for audit and visibility. | Python, Boto3, IAM |
-| **IoT Quality Monitor** | Real-time monitoring system utilizing MQTT protocols and time-series databases for environmental data. | AWS IoT, Timestream, Python |
+* **Cloud Infrastructure:** Architecting scalable solutions on **AWS** using VPC, EC2, S3, and Lambda.
+* **Infrastructure as Code:** Expert-level **Terraform** for reproducible and modular infrastructure.
+* **Automation & Scripting:** Developing robust automation toolkits using **Python (Boto3)** and **Bash**.
+* **CI/CD & DevOps:** Streamlining deployment lifecycles via **GitHub Actions** and Git-flow methodologies.
+* **System Administration:** Comprehensive **Linux** engineering, performance tuning, and security hardening.
 
 ---
 
-### Certifications
+### Technical Portfolio
+
+#### [AWS Boto3 Automation Toolkit](https://github.com/BOOPESH-foxy)
+*Advanced Python utility designed to manage the lifecycle of ephemeral cloud resources. Features include automated provisioning, tagging compliance, and scheduled resource termination to optimize cloud spend.*
+
+#### [Multi-Region Cloud Mapper](https://github.com/BOOPESH-foxy)
+*A security and auditing tool that programmatically discovers and maps AWS resources across global regions. Enhances infrastructure visibility and ensures architectural alignment with organizational standards.*
+
+#### [IoT Environmental Data Pipeline](https://github.com/BOOPESH-foxy)
+*An end-to-end data pipeline utilizing AWS IoT Core and Timestream. Implements MQTT protocols to process real-time sensor data for environmental monitoring and analysis.*
+
+---
+
+### Professional Certifications
 
 * **AWS Certified CloudOps** – Associate
 * **HashiCorp Certified** – Terraform Associate
 
 ---
 
-### Professional Networking
+### Engineering Metrics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOOPESH-foxy&layout=compact&theme=transparent&hide_border=true&title_color=34d399&text_color=e2e8f0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BOOPESH-foxy&show_icons=true&theme=transparent&hide_border=true&title_color=34d399&text_color=e2e8f0)
+
+---
+
+### 🌐 Contact Information
 
 * **LinkedIn:** [linkedin.com/in/boopesh-foxy](https://linkedin.com/in/boopesh-foxy)
 * **Email:** [contact.boopesh@gmail.com](mailto:contact.boopesh@gmail.com)
+* **Location:** Remote / India
