@@ -34,14 +34,8 @@ Professional engineer specializing in **Infrastructure as Code (IaC)**, **Cloud 
 
 ---
 
-### Engineering Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOOPESH-foxy&layout=compact&theme=transparent&hide_border=true&title_color=34d399&text_color=e2e8f0)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BOOPESH-foxy&show_icons=true&theme=transparent&hide_border=true&title_color=34d399&text_color=e2e8f0)
-
----
-
-### 🌐 Contact Information
+### Contact Information
 
 * **LinkedIn:** [linkedin.com/in/boopesh-foxy](https://linkedin.com/in/boopesh-foxy)
 * **Email:** [contact.boopesh@gmail.com](mailto:contact.boopesh@gmail.com)
