@@ -1,4 +1,4 @@
-# Boopesh | CloudOps & DevOps Engineer
+# Boopesh | Platform Engineer
 
 Professional engineer specializing in **Infrastructure as Code (IaC)**, **Cloud Architecture**, and **Automated Workflows**. I focus on building highly available, secure, and cost-optimized cloud environments.
 
