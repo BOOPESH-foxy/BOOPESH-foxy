@@ -114,11 +114,6 @@ $ fortune
 <span style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 8px 20px; border-radius: 20px; color: #fff; font-weight: bold; font-size: 18px; display: inline-block; margin: 10px 0;">GitHub Analytics</span>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BOOPESH-foxy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOOPESH-foxy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BOOPESH-foxy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
